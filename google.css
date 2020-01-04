@@ -1,0 +1,160 @@
+
+
+nav{
+  width: 100vw;
+}
+nav{
+  width: 100vw;
+  background-color: #FFFFFF;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  
+  /*this option by default dispose the elements in a row (flex-direction: row)*/
+  display: flex;
+}
+
+li{
+  list-style-type: none;  
+  margin: 0 1vw;
+  /* our font-size will be 3% of the height of the viewport */
+  font-size: 3
+ 
+}
+
+form.example input[type=text] {
+  padding: 5px 8px 0 16px;
+  font-size: 13px;
+  border: 1px solid #dfe1e5;
+  margin: 15px 0px;
+  width: 582px;
+  height: 28px;
+  background: #ffffff;
+  border-radius: 24px;
+  position: relative;
+  left: -50%;
+ 
+  
+}
+
+
+.button {
+  background-color: #f2f2f2;
+  border: #f2f2f2;
+  border-radius: 4px;
+  color: #5F6368;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0px 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+
+.navbar {
+  background-color: #f2f2f2;
+  overflow: hidden;
+ 
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #5f6368;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.buton {
+display: inline-block;
+line-height: 28px;
+padding: 0 12px;
+border-radius: 2px;
+color:   #FFFFFF;
+font-size: 13px;  
+font-family: arial,sans-serif;
+border: 1px solid
+#4285f4;
+font-weight: bold;
+outline: none;
+background: #4285f4;
+position: absolute;
+top: 8px;
+right: 16px;
+  
+}
+
+.top {
+color: #000000;
+text-decoration: none;
+display: inline-block;
+line-height: 24px;
+padding: 0px 4px 0px; 
+outline: none;
+vertical-align: middle;
+font-family: arial,sans-serif;
+text-align: right;
+font-size: 13px;
+position: relative;
+bottom: -11px;
+left: 1230px;
+
+}
+
+.dock {
+background-image:  url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
+background-size: 528px 68px;
+background-position: -132px -38px;
+opacity: .60;
+display: inline-block;
+outline: none;
+vertical-align: middle;
+border-radius: 2px;
+box-sizing: border-box;
+height: 30px;
+width: 30px;
+color: #000;
+cursor: pointer;
+text-decoration: none;
+  position: absolute;
+top: 8px;
+right: 123px;
+}
+
+footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+ 
+}
+
+center {
+
+
+  width: 300px;
+  height: 340px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
