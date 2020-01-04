@@ -8,11 +8,11 @@ This is a part of The Odin Project curriculum (http://www.theodinproject.com/cou
 
 At first I didn't believe that I can accomplish this, there was too much to do and I had little to no knowledge. Element after element, I managed to finish this project. What I learned from it:
 
--using the <div> tags;
--using various tags that allign the document - <head>, <center>, <footer>, <body>;
+-using the <div> tags
+-using various tags that allign the document - <head>, <center>, <footer>, <body>
 -aligning objects around the page using <placement> tag.
 -difference between margin and padding.
--power of "inspect element" tool.
+-how to use "inspect element" tool.
 -that no matter the task, if I deconstruct it into smaller chunks, I will be able to accomplish it.
 -linking the CSS file.
 
